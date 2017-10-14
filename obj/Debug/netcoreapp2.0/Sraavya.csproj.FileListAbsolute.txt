@@ -1,0 +1,10 @@
+C:\temp\Sraavya\bin\Debug\netcoreapp2.0\Sraavya.deps.json
+C:\temp\Sraavya\bin\Debug\netcoreapp2.0\Sraavya.runtimeconfig.json
+C:\temp\Sraavya\bin\Debug\netcoreapp2.0\Sraavya.runtimeconfig.dev.json
+C:\temp\Sraavya\bin\Debug\netcoreapp2.0\Sraavya.dll
+C:\temp\Sraavya\bin\Debug\netcoreapp2.0\Sraavya.pdb
+C:\temp\Sraavya\obj\Debug\netcoreapp2.0\Sraavya.csproj.CoreCompileInputs.cache
+C:\temp\Sraavya\obj\Debug\netcoreapp2.0\Sraavya.AssemblyInfoInputs.cache
+C:\temp\Sraavya\obj\Debug\netcoreapp2.0\Sraavya.AssemblyInfo.cs
+C:\temp\Sraavya\obj\Debug\netcoreapp2.0\Sraavya.dll
+C:\temp\Sraavya\obj\Debug\netcoreapp2.0\Sraavya.pdb
